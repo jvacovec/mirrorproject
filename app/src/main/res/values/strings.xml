@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">HomeMirror</string>
 
-    <string name="default_mirror_mirror">Mirror, mirror on the wall. Hannah is the prettiest of them all.</string>
+    <string name="default_mirror_mirror">Good Fucking Morning.</string>
 
     <!-- Owners -->
-    <string name="owners">Hannah and Andy</string>
+    <string name="owners">Jake</string>
 
     <!-- Time module -->
     <string name="good_morning">Good morning, %s</string>
@@ -34,6 +34,7 @@
     <string name="set_up">Set Up</string>
     <string name="latitude">Latitude</string>
     <string name="longitude">Longitude</string>
+    <string name="dark_sky_api_key">8fd9f65f995dea4f22298cf568cff5ed</string>
     <string name="launch">Launch</string>
     <string name="mood_detection_option">Show mood detection</string>
     <string name="show_xkcd">Show new xkcd</string>
